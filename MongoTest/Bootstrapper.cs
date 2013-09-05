@@ -50,7 +50,7 @@ namespace MongoTest
 
 
             //SqlConnection connection =
-            //    new SqlConnection("Data Source=10.0.122.14;Initial Catalog=srm4000;User ID=developers;Password=chicago");
+            //    new SqlConnection("Data Source=1.1.1.1;Initial Catalog=mydb;User ID=developers;Password=developers");
             //connection.Open();
             //SqlCommand command =
             //          new SqlCommand("DELETE FROM [TABLE]", connection);
